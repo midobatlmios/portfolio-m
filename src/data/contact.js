@@ -11,7 +11,7 @@ const contacts = [
   {
     label: "LinkedIn",
     icon: linkedin,
-    link: "https://www.linkedin.com",
+    link: "https://www.linkedin.com/in/mohamed-bouamlat-1a8699248/",
   },
   {
     label: "Github",
