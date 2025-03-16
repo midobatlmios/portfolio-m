@@ -16,7 +16,7 @@ const contacts = [
   {
     label: "Github",
     icon: github,
-    link: "https://github.com",
+    link: "https://github.com/midobatlmios",
   },
 ];
 
